@@ -1,0 +1,337 @@
+{
+  "providerName": "AW2020",
+  "language": "en-US",
+  "lastUpdated": "2020-09-20T22:00:07.917040",
+  "movies": [
+    {
+      "longDescription": "This is AW2020_TRAILER_NY_16x9 test sample",
+      "thumbnail": "https://i.vimeocdn.com/video/960079829_1280x720.jpg?r=pad",
+      "releaseDate": "2020-09-20",
+      "genres": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "tags": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "id": "movies-/videos/459537429",
+      "shortDescription": "This is AW2020_TRAILER_NY_16x9 test sample",
+      "title": "AW2020_TRAILER_NY_16x9",
+      "content": {
+        "duration": 90,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://player.vimeo.com/external/459537429.m3u8?s=6f7c6f90cdf8a07d60004d12868bc0a9b928ae17&oauth2_token_id=1397503914",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-09-18T21:29:17+00:00"
+      }
+    },
+    {
+      "longDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "thumbnail": "https://i.vimeocdn.com/video/960078277_1280x720.jpg?r=pad",
+      "releaseDate": "2020-09-20",
+      "genres": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "tags": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "id": "movies-/videos/459535332",
+      "shortDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "title": "Let’s Give Them Something to Talk About- Building Brand Experiences that Matter",
+      "content": {
+        "duration": 2477,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://player.vimeo.com/external/459535332.m3u8?s=5a16dc36affb8f81d4fa62eb7e4af6b20d02f5f2&oauth2_token_id=1397503914",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-09-18T21:21:02+00:00"
+      }
+    },
+    {
+      "longDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "thumbnail": "https://i.vimeocdn.com/video/960076172_1280x720.jpg?r=pad",
+      "releaseDate": "2020-09-20",
+      "genres": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "tags": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "id": "movies-/videos/459533508",
+      "shortDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "title": "The Future is Unconventional- TikTok’s Path to Disrupting the Disruptors",
+      "content": {
+        "duration": 2454,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://player.vimeo.com/external/459533508.m3u8?s=7095f77f839fd449e7438e26d7e92eb910ae5228&oauth2_token_id=1397503914",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-09-18T21:13:36+00:00"
+      }
+    },
+    {
+      "longDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "thumbnail": "https://i.vimeocdn.com/video/960072688_1280x720.jpg?r=pad",
+      "releaseDate": "2020-09-20",
+      "genres": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "tags": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "id": "movies-/videos/459529996",
+      "shortDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "title": "Disney Presents- Bold Story Telling",
+      "content": {
+        "duration": 2597,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://player.vimeo.com/external/459529996.m3u8?s=7d6c5fef0647b9ae02344d0a96b1e831dece7d3b&oauth2_token_id=1397503914",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-09-18T21:00:56+00:00"
+      }
+    },
+    {
+      "longDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "thumbnail": "https://i.vimeocdn.com/video/960066633_1280x720.jpg?r=pad",
+      "releaseDate": "2020-09-20",
+      "genres": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "tags": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "id": "movies-/videos/459526034",
+      "shortDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "title": "How Do You Stand Out From the Crowd",
+      "content": {
+        "duration": 4255,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://player.vimeo.com/external/459526034.m3u8?s=5dd8b94876bf357eb8ef9aa608384c2cb8cb3f6e&oauth2_token_id=1397503914",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-09-18T20:48:03+00:00"
+      }
+    },
+    {
+      "longDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "thumbnail": "https://i.vimeocdn.com/video/960062708_1280x720.jpg?r=pad",
+      "releaseDate": "2020-09-20",
+      "genres": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "tags": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "id": "movies-/videos/459523876",
+      "shortDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "title": "Beyond Diversity Talk- A Workshop on Turning Intentions into Actions, Now",
+      "content": {
+        "duration": 2924,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://player.vimeo.com/external/459523876.m3u8?s=3d9910eef8f511bd3d8ab084189ac0ca81f77b20&oauth2_token_id=1397503914",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-09-18T20:41:17+00:00"
+      }
+    },
+    {
+      "longDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "thumbnail": "https://i.vimeocdn.com/video/960056927_1280x720.jpg?r=pad",
+      "releaseDate": "2020-09-20",
+      "genres": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "tags": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "id": "movies-/videos/459520412",
+      "shortDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "title": "Can A Brand Truly Be Inclusive",
+      "content": {
+        "duration": 2279,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://player.vimeo.com/external/459520412.m3u8?s=5d68d92d07cdb566bb9b83cc8fd4ed5d6f698670&oauth2_token_id=1397503914",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-09-18T20:29:37+00:00"
+      }
+    },
+    {
+      "longDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "thumbnail": "https://i.vimeocdn.com/video/960051121_1280x720.jpg?r=pad",
+      "releaseDate": "2020-09-20",
+      "genres": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "tags": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "id": "movies-/videos/459506109",
+      "shortDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "title": "Backstage with Trevor Noah + Jeremi Gorman- Creativity and the Mobile Generation",
+      "content": {
+        "duration": 2387,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://player.vimeo.com/external/459506109.m3u8?s=531c75a8ec40f5bdc22ab579b9b5c4acc6307c96&oauth2_token_id=1397503914",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-09-18T19:42:14+00:00"
+      }
+    },
+    {
+      "longDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "thumbnail": "https://i.vimeocdn.com/video/960027111_1280x720.jpg?r=pad",
+      "releaseDate": "2020-09-20",
+      "genres": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "tags": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "id": "movies-/videos/459503772",
+      "shortDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "title": "The Art of the Turnaround- The Chipotle Story",
+      "content": {
+        "duration": 2589,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://player.vimeo.com/external/459503772.m3u8?s=71c3d302eca2389763875dc972a5978f66d728c7&oauth2_token_id=1397503914",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-09-18T19:34:39+00:00"
+      }
+    },
+    {
+      "longDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "thumbnail": "https://i.vimeocdn.com/video/960011790_1280x720.jpg?r=pad",
+      "releaseDate": "2020-09-20",
+      "genres": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "tags": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "id": "movies-/videos/459492923",
+      "shortDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "title": "Stepping Outside of the Arena",
+      "content": {
+        "duration": 2143,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://player.vimeo.com/external/459492923.m3u8?s=a30c0d94913d9dd7790a9e3b9187d2399de95253&oauth2_token_id=1397503914",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-09-18T19:01:28+00:00"
+      }
+    },
+    {
+      "longDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "thumbnail": "https://i.vimeocdn.com/video/959980827_1280x720.jpg?r=pad",
+      "releaseDate": "2020-09-20",
+      "genres": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "tags": [
+        "educational",
+        "news",
+        "special"
+      ],
+      "id": "movies-/videos/459474581",
+      "shortDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "title": "Be Afraid, Be Very Afraid, But Do it",
+      "content": {
+        "duration": 2605,
+        "videos": [
+          {
+            "videoType": "HLS",
+            "url": "https://player.vimeo.com/external/459474581.m3u8?s=2d1296c37a51c0bee353f6bc932154e8b275b130&oauth2_token_id=1397503914",
+            "quality": "HD"
+          }
+        ],
+        "language": "en-us",
+        "dateAdded": "2020-09-18T18:04:36+00:00"
+      }
+    }
+  ]
+}
